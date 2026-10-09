@@ -4,7 +4,7 @@ I'm Margaret, a remote sensing analyst and geospatial enthusiast based in Colora
 
 About me in 30 seconds...
  
-🌿 Graduating senior from Colorado State University '27
+🌿 Graduating senior from Colorado State University 
 
 🛰️ Passionate about Earth observation science
 
@@ -16,7 +16,9 @@ ________________________________________________________________________________
 
 Come say hi 👇
 
-[![LinkedIn](height="40em" align="center(https://s.yimg.com/zb/imgv1/871a3f0a-7579-32b5-8878-6fe393451fb8/t_500x300))](https://www.linkedin.com/in/margaret-monaghan/)
+
+
+[![LinkedIn](https://s.yimg.com/zb/imgv1/871a3f0a-7579-32b5-8878-6fe393451fb8/t_500x300)](https://www.linkedin.com/in/margaret-monaghan/)
  
 
 <!--
