@@ -12,7 +12,9 @@ About me in 30 seconds...
 
 🗺️ Loves an old map... the dustier the better!
 
+__________________________________________________________________________________________
 
+You can reach me on my 
 
 
 <!--
