@@ -14,7 +14,9 @@ About me in 30 seconds...
 
 __________________________________________________________________________________________
 
-You can reach me on my 
+Come say hi 👇
+
+[![LinkedIn](https://s.yimg.com/zb/imgv1/871a3f0a-7579-32b5-8878-6fe393451fb8/t_500x300)](https://www.linkedin.com/in/margaret-monaghan/)
 
 
 <!--
