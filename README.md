@@ -2,11 +2,13 @@
 
 I'm Margaret, a remote sensing analyst and geospatial enthusiast based in Colorado, USA.
 
-About me in 30 seconds...
+About me...
  
 🌿 Graduating senior from Colorado State University 
 
 🛰️ Passionate about Earth observation science
+
+🌎 Working on enhancing geospatial programming 
 
 
 __________________________________________________________________________________________
