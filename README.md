@@ -8,9 +8,6 @@ About me in 30 seconds...
 
 🛰️ Passionate about Earth observation science
 
-🌎 Currently working on enhancing R and JavaScript skills for geospatial analysis
-
-🗺️ Loves an old map... the dustier the better!
 
 __________________________________________________________________________________________
 
