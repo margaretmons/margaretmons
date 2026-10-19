@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes@4.26.2
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
 
 plugins:
@@ -7,9 +7,5 @@ plugins:
 
 title: "Margaret Monaghan | Geospatial Portfolio"
 name: "Margaret Monaghan"
-description: "GIS analyst focused on remote sensing and spatial analysis"
-author:
-  name: "Margaret Monaghan"
-  bio: "Remote sensing analyst and geospatial enthusiast."
-  location: "Fort Collins, CO"
+description: "Geospatial portfolio"
  
