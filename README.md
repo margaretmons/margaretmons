@@ -15,10 +15,8 @@ ________________________________________________________________________________
 
 Come say hi 👇
 
-
-
- <a href="https://www.linkedin.com/in/margaret-monaghan/">
-  <img src="C:\Users\Owner\OneDrive\GIS\Github_account_needs\LinkedInLogo" alt="LinkedIn" width="200">
+<a href="https://www.linkedin.com/in/margaret-monaghan/">
+  <img src="https://s.yimg.com/zb/imgv1/871a3f0a-7579-32b5-8878-6fe393451fb8/t_500x300" alt="LinkedIn" width="50">
 </a>
 
 <!--
