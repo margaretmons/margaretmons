@@ -1,6 +1,6 @@
 ## Hi there!! 
 
-I'm Margaret, a remote sensing analyst and geospatial enthusiast based in Colorado, USA.
+I'm Margaret, a remote sensing analyst and geospatial enthusiast based in Colorado
 
 About me...
  
